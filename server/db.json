@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "dcb",
+      "description": "hd",
+      "id": 1
+    },
+    {
+      "title": "First STream fgghj",
+      "description": "My first stream",
+      "id": 8
+    },
+    {
+      "title": "JS Programming Edit available",
+      "description": "This is a stream from another id",
+      "userId": "109530051199631644318",
+      "id": 9
+    },
+    {
+      "title": "Boom",
+      "description": "Badaum boom",
+      "id": 10
+    },
+    {
+      "title": "Delete me",
+      "description": "fghjnm,",
+      "userId": "103991316622578028389",
+      "id": 11
+    }
+  ]
+}
